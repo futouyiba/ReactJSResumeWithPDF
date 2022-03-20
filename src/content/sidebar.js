@@ -27,21 +27,18 @@ const sidebar = {
     title: '兴趣点',
     list: [
       {
-        name: '游戏商业',
-        description: '作为一个金融背景的游戏人，我始终对于游戏商业形态充满兴趣；游戏已经引领了商业革命，我相信也将创造新的商业潮流',
-      },
-      {
         name: '游戏设计',
         description: '游戏是我一生的热爱。游戏如何反映人性、如何带给人新的视野、如何让人得到最多的乐趣，值得不懈的探索',
       },
       {
-        name: '新技术',
-        description: '关注游戏、web、分布式系统开发技术，持有技术专利（编号2019102337525）',
+        name: '代码',
+        description: '喜欢自己写代码、写工具。(此简历使用ReactJS制作)',
       },
       {
-        name: '开源项目',
-        description: '开放、共享的开源社区让我着迷（本简历使用reactJS制作，地址为：https://github.com/futouyiba/\nReactJSResumeWithPDF）',
-      }],
+        name: '游戏商业',
+        description: '作为一个金融背景的游戏人，我始终对于游戏商业形态充满兴趣；游戏已经引领了商业革命，我相信也将创造新的商业潮流',
+      },
+    ],
   },
 };
 

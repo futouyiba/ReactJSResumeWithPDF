@@ -2,7 +2,7 @@
 
 const sidebar = {
   name: {
-    title: ['12年工作经验'],
+    title: ['14年工作经验'],
     name: '宋 甫',
   },
   contact: {

@@ -1,156 +1,156 @@
 /* eslint max-len: "off" */
 
 const experience = {
-  title: '工作经历',
+  title: 'Work Experience',
   icon: null,
   description: null,
   list: [
     {
-      title: '游戏制作人',
-      subtitle: '北京西南偏南科技有限公司',
-      subtitleDetail: ' - 朋友公司的合伙人',
-      date: '2022.01 至今',
+      title: 'Producer',
+      subtitle: 'Beijing Southwest-by-Southwest Technology Co., Ltd.',
+      subtitleDetail: ' - Partner in a friend\'s company',
+      date: '2022.01 to present',
       tags: [
-        '团队管理',
-        '游戏设计',
-        '工程开发',
+        'Team Management',
+        'Game Design',
+        'Engineering Development',
       ],
       description: [
-        '管理9人开发团队，与公司运营、推广、iOS&安卓开发工程师协作',
-        '产品《修勾夜店》，游戏结合语音聊天房全渠道上线',
-        '考虑离开原因：一段时间运营后，用户的付费能力弱。游戏和语音聊天房的结合偏元宇宙，其商业模式方面整个行业都面临了问题，有共识、硬件、等深层次的原因，无法期待在一年内解决。',
+        'Managing a 9-person development team, collaborating with company operations, marketing, and iOS & Android engineers.',
+        'Product "Xiugou Nightclub", a game that combines voice chat rooms and launched on all channels.',
+        'Reason for considering leaving: After a period of operation, the users\' willingness to pay is weak. The combination of the game and voice chat rooms leans towards the metaverse, and the entire industry faces problems in the business model, with deeper reasons such as consensus and hardware. It is unrealistic to expect a solution within a year.',
       ]
     },
     {
-      title: '制作人',
-      subtitle: '念力云游戏',
-      subtitleDetail: ' - 家门口的云游戏StartUp',
+      title: 'Producer',
+      subtitle: 'Nianli Cloud Gaming',
+      subtitleDetail: ' - A cloud gaming startup near home',
       date: '2021.05 - 2022.1',
       tags: [
-        '团队管理',
-        '商业策略',
-        '工程开发',
-        '游戏设计',
+        'Team Management',
+        'Business Strategy',
+        'Engineering Development',
+        'Game Design',
       ],
       description: [
-        '管理11人团队',
-        '产品《云原生游戏项目》，需要保密',
-        '离开原因：公司不做游戏了',
+        'Managing an 11-person team',
+        'Product "Cloud-native game project", confidentiality required',
+        'Reason for leaving: The company stopped developing games',
       ]
     },
     {
-      title: '制作人',
-      subtitle: '北京开天创世科技有限公司',
-      subtitleDetail: ' - 家门口的中型游戏开发商CP',
+      title: 'Producer',
+      subtitle: 'Beijing Kaitian Chuangshi Technology Co., Ltd.',
+      subtitleDetail: ' - A medium-sized game developer near home',
       date: '2020.05 - 2021.5',
       tags: [
-        '团队管理',
-        '商业策略',
-        '产品开发',
-        '游戏设计',
+        'Team Management',
+        'Business Strategy',
+        'Product Development',
+        'Game Design',
       ],
       description: [
-        '管理32人团队',
-        '研究商业策略，找到价值洼地用户群体，并组建、带领团队开发出满足用户需求的产品',
-        '产品《勒是地下城》，为满足用户群体的需求，做了大量核心机制创新',
-        '玩法、画风测试当中玩家反馈较好',
-        '离开原因：与发行公司的发行、推广策略分歧太大，不匹配导致诸多问题',
+        'Managing a 32-person team',
+        'Researching business strategies, identifying valuable user groups, and forming and leading a team to develop products that meet user needs',
+        'Product "Le is Dungeon", made numerous core mechanism innovations to meet the needs of the target user group',
+        'Positive player feedback on gameplay and art style during testing',
+        'Reason for leaving: Significant disagreements with the publisher on distribution and promotion strategies, causing various issues due to mismatch',
       ]
     },
     {
-      title: '创始人',
-      subtitle: '北京双曲互动科技有限公司',
-      subtitleDetail: ' - 科技创业公司',
+      title: 'Founder',
+      subtitle: 'Beijing Hyperbolic Interactive Technology Co., Ltd.',
+      subtitleDetail: ' - Technology startup company',
       date: '2018.05 - 2020.6',
       tags: [
-        '团队管理',
-        '产品设计',
-        '产品开发',
-        '游戏设计',
-        '游戏开发'
+        'Team Management',
+        'Product Design',
+        'Product Development',
+        'Game Design',
+        'Game Development'
       ],
       description: [
-        '带领9人团队，统筹管理产品设计、开发与对外事项',
-        '研发了“鞅”专利技术',
-        '依托于独有技术，推出了《繁星》社区共建网络游戏解决方案',
-        '与独游网达成了战略合作',
-        '为《繁星》平台开发了示例TCG游戏《Renaissance》',
-        '为《繁星》平台开发了示例Web游戏《Destined Stone》'
+        'Leading a 9-person team, overseeing product design, development, and external affairs',
+        'Developed "Yang" patented technology',
+        'Launched "Fanxing" community co-built online game solution based on unique technology',
+        'Established a strategic partnership with DuYou Network',
+        'Developed the sample TCG game "Renaissance" for the "Fanxing" platform',
+        'Developed the sample Web game "Destined Stone" for the "Fanxing" platform'
       ]
     },
     {
-      title: '独立游戏制作人',
-      subtitle: '独立游戏工作室',
+      title: 'Independent Game Producer',
+      subtitle: 'Indie Game Studio',
       date: '2016.11-2018.04',
       tags: [
-        '团队管理',
-        '游戏设计',
-        '游戏开发',
+        'Team Management',
+        'Game Design',
+        'Game Development',
       ],
       description: [
-        '带领3人团队，围绕游戏项目的设计、开发、美术组织高效的合作。',
-        '除游戏的整体愿景、具体设计之外，负责了游戏的战斗、网络同步部分代码编写。',
-        '开发了实时联网布阵策略游戏《泉水指挥官》。',
+        'Led a 3-person team, efficiently coordinating design, development, and art around game projects.',
+        'Responsible for the project overall vision, specific design, as well as coding the combat and network synchronization.',
+        'Developed the real-time online formation strategy game "Fountain Commander".',
       ],
     },
     {
-      title: '游戏主策划',
-      subtitle: 'Kabam（北京）科技有限公司',
-      subtitleDetail: ' - 美资跨国手游厂商',
+      title: 'Lead Game Designer',
+      subtitle: 'Kabam (Beijing) Technology Co., Ltd.',
+      subtitleDetail: ' - American multinational mobile game company',
       date: '2014.07-2016.11',
       tags: [
-        '团队管理',
-        '游戏设计',
-        '游戏开发'
+        'Team Management',
+        'Game Design',
+        'Game Development'
       ],
       description: [
-        '管理6人团队，设计游戏玩法、经济系统、付费模式',
-        '作为主创人员制作的《漫威：超级争霸战》（Marvel: Contest of Champions）全球收入超过9亿美元。《漫威：超级争霸战》是一款卡牌+格斗的高清3D游戏，核心战斗与外围系统都加入了大量的创新。',
-        '作为主策线上更新维护的《亚瑟英雄传》(Heroes of Camelot)是一款面向欧美的日式卡牌游戏，主要负责其中的公会战、数值，通过公会战，将长留提升3%。作为数值策划短暂开发的《Mad Max：Fury Road》是一款SLG游戏。',
+        'Managing a 6-person team, designing gameplay, economic systems, and monetization models',
+        'As a creator, "Marvel: Contest of Champions" generated over $900 million in global revenue. The game is a high-definition 3D card+fighting game with numerous innovations in core combat and peripheral systems.',
+        'As the lead designer for online updates and maintenance of "Heroes of Camelot", a Japanese-style card game targeting the European and American markets, primarily responsible for guild wars and game metrics. Through guild wars, player retention increased by 3%. Briefly developed "Mad Max: Fury Road", an SLG game, as a game tuning designer.',
       ],
     },
     {
-      title: '数值策划组长',
-      subtitle: 'Gameloft北京工作室',
-      subtitleDetail: ' - 最老牌的手游开发商',
+      title: 'Game Tuning Design Team Leader',
+      subtitle: 'Gameloft Beijing Studio',
+      subtitleDetail: ' - The oldest mobile game developer',
       date: '2012.07-2014.07',
       tags: [
-        '游戏数值',
-        '游戏设计',
+        'Game Metrics',
+        'Game Design',
       ],
       description: [
-        '主要研究游戏战斗平衡、经济系统相关数学模型；负责本项目同时，对多个项目的数值提供协助',
-        '《混沌与秩序》系列是手机上首款全3d MMO游戏，系列收入超3000万美元。我作为数值策划参与了第一款产品的更新维护，与第二款产品的从零开发。',
-        '将MMO中的重度数值经验做分享，协助公司内多个项目的数值系统搭建。负责公司数值策划的招聘、考核。',
+        'Mainly researched game battle balance and economic system-related mathematical models; responsible for the project while providing assistance for multiple projects\' game metrics.',
+        'The "Order & Chaos" series was the first full 3D MMO game on mobile, with series revenue exceeding $30 million. I participated in the updates and maintenance of the first product and the development of the second product from scratch as a game tuning designer.',
+        'Shared heavy game metrics experience from MMOs, assisted in the establishment of game metrics systems for multiple projects within the company. Responsible for recruitment and assessment of game tuning designers.',
       ],
     },
     {
-      title: '游戏数据分析师',
-      subtitle: '乐元素',
+      title: 'Game Data Analyst',
+      subtitle: 'LeYuan',
       tags: [
-        '游戏数据分析',
+        'Game Data Analysis',
       ],
       description: [
-        '帮助社交游戏挖掘facebook、QZone上的数据表现，以改进游戏内容。',
-        '支持项目包括《开心泡泡猫》《我是传奇》《我的王国》《兔子来了》'
+        'Helped social games mine data performance on Facebook and QZone to improve game content.',
+        'Supported projects include "Happy Bubble Cat," "I Am Legend," "My Kingdom," and "The Rabbit is Coming."'
       ],
-      subtitleDetail: ' - 国内社交游戏开发商',
+      subtitleDetail: ' - Domestic social game developer',
       date: '2012.04-2012.07',
     },
     {
-      title: '信贷管理',
-      subtitle: '中国农业银行',
+      title: 'Corporate Credit Analyst',
+      subtitle: 'Agricultural Bank of China',
       tags: [
         '',
       ],
       description: [
-        '主要从事企业的贷款管理，客户包括合生、珠江、保利、北京市土储、国药集团、供销集团等。',
-        '涉及供应链金融、房地产开发贷款、经营性物业贷款等。累计发放贷款13亿人民币，无次级、不良。'
+        'Mainly engaged in corporate loan management, clients include Hopson, Pearl River, Poly, Beijing Land Reserve, Sinopharm Group, and Supply and Marketing Group.',
+        'Mainly engaged in corporate loan management, clients include Hopson Development Holdings Limited, Pearl River Real Estate Limited, Poly Real Estate Limited, Beijing Municipal Government Land Reserve Center, Sinopharm Group, and China National Supply and Marketing Cooperative."'
       ],
-      subtitleDetail: ' - 四大股份制商业银行',
+      subtitleDetail: ' - One of the four major state-owned commercial banks',
       date: '2008.09-2012.03',
     },
-  ],
+  ]
 };
 
 export default experience;

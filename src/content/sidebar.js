@@ -2,8 +2,8 @@
 
 const sidebar = {
   name: {
-    title: ['14年工作经验'],
-    name: '宋 甫',
+    title: ['with 14 years of work experience'],
+    name: 'Song Fu',
   },
   contact: {
     email: { value: '313017350@qq.com', icon: 'far fa-envelope' },
@@ -13,30 +13,30 @@ const sidebar = {
     github: { value: 'github.com/futouyiba', icon: 'fab fa-github' },
   },
   education: {
-    title: '教育背景',
+    title: 'Education',
     list: [
       {
-        degree: '本科',
-        school: '中央财经大学',
+        degree: 'Bachelor',
+        school: 'Central University of Finance and Economics',
         date: '2004.7-2008.7',
-        courses: '经济学学士（精算学专业） & 法学学士（辅修）',
+        courses: 'Bachelor of Economics (Actuarial Science major) & Bachelor of Law (minor)',
       },
     ],
   },
   interests: {
-    title: '兴趣点',
+    title: 'Interests',
     list: [
       {
-        name: '游戏设计',
-        description: '游戏是我一生的热爱。游戏如何反映人性、如何带给人新的视野、如何让人得到最多的乐趣，值得不懈的探索',
+        name: 'Game Design',
+        description: 'Games are my lifelong passion. Exploring how games reflect human nature, provide new perspectives, and bring the most enjoyment is a relentless pursuit.',
       },
       {
-        name: '代码',
-        description: '喜欢自己写代码、写工具。(此简历使用ReactJS制作)',
+        name: 'Coding',
+        description: 'I enjoy writing code and creating tools myself. (This resume is created using ReactJS.)',
       },
       {
-        name: '游戏商业',
-        description: '作为一个金融背景的游戏人，我始终对于游戏商业形态充满兴趣；游戏已经引领了商业革命，我相信也将创造新的商业潮流',
+        name: 'Game Business',
+        description: 'As a game professional with a financial background, I have always been interested in the business aspect of games. Games have led the business revolution, and I believe they will continue to create new trends.',
       },
     ],
   },

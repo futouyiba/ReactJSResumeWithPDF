@@ -35,10 +35,12 @@
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-redux": "5.0.7",
-    "redux": "3.7.2"
+    "redux": "3.7.2",
+    "yaml": "*"
   },
   "devDependencies": {
     "autoprefixer": "7.1.6",
+    "yaml-loader": "*",
     "babel-core": "6.26.0",
     "babel-eslint": "7.2.3",
     "babel-jest": "20.0.3",
